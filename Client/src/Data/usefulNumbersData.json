@@ -1,0 +1,55 @@
+{
+  "usefulNumbers": [
+    {
+      "category": "Emergency Services",
+      "numbers": [
+        {"name": "Police", "number": "100"},
+        {"name": "Fire Brigade", "number": "101"},
+        {"name": "Ambulance", "number": "102"},
+        {"name": "Women's Helpline", "number": "1091"},
+        {"name": "Child Helpline", "number": "1098"}
+      ]
+    },
+    {
+      "category": "Medical Services",
+      "numbers": [
+        {"name": "Banaras Hindu University Hospital", "number": "+91-542-230-7500"},
+        {"name": "Heritage Hospital", "number": "+91-542-250-1111"},
+        {"name": "Surya Hospital", "number": "+91-542-227-6000"},
+        {"name": "Popular Hospital", "number": "+91-542-220-1500"}
+      ]
+    },
+    {
+      "category": "Transportation",
+      "numbers": [
+        {"name": "Varanasi Airport", "number": "+91-542-262-3060"},
+        {"name": "Varanasi Junction Railway Station (Enquiry)", "number": "139"},
+        {"name": "UPSRTC", "number": "+91-542-250-1643"},
+        {"name": "Auto-Rickshaw Service", "number": "+91-542-220-1501"}
+      ]
+    },
+    {
+      "category": "Tourist Information",
+      "numbers": [
+        {"name": "Tourist Information Center", "number": "+91-542-250-3487"},
+        {"name": "Varanasi Development Authority", "number": "+91-542-250-1860"}
+      ]
+    },
+    {
+      "category": "Consulates and Embassies",
+      "numbers": [
+        {"name": "US Consulate General (Kolkata)", "number": "+91-33-3984-2400"},
+        {"name": "British Deputy High Commission (Kolkata)", "number": "+91-33-2288-5172"},
+        {"name": "Australian Consulate General (Mumbai)", "number": "+91-22-6757-4900"}
+      ]
+    },
+    {
+      "category": "Local Assistance",
+      "numbers": [
+        {"name": "Varanasi Municipal Corporation", "number": "+91-542-250-3380"},
+        {"name": "Electricity Department", "number": "1912"},
+        {"name": "Water Supply Department", "number": "+91-542-220-1540"}
+      ]
+    }
+  ]
+}

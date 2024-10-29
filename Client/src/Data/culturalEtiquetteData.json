@@ -1,0 +1,46 @@
+{
+  "culturalEtiquette": [
+    {
+      "category": "General Etiquette",
+      "items": [
+        {"title": "Greeting", "description": "The traditional greeting in India is 'Namaste' with hands pressed together in a prayer position and a slight bow of the head."},
+        {"title": "Dress Code", "description": "Modest clothing is highly recommended, especially when visiting religious sites. Both men and women should cover their shoulders and knees."},
+        {"title": "Footwear", "description": "It is customary to remove your shoes before entering someone's home, temples, or certain shops. Look for shoe racks or designated areas for footwear."},
+        {"title": "Personal Space", "description": "Respect personal space and avoid public displays of affection. Handshakes are common in business settings, but avoid hugging or kissing in public."}
+      ]
+    },
+    {
+      "category": "Visiting Temples and Religious Sites",
+      "items": [
+        {"title": "Proper Attire", "description": "Wear modest and respectful clothing. Women should cover their heads with a scarf when entering certain temples."},
+        {"title": "Footwear", "description": "Always remove your shoes before entering a temple. Some places might also require you to remove socks."},
+        {"title": "Silence and Respect", "description": "Maintain a respectful silence inside temples. Avoid loud conversations and unnecessary noise."},
+        {"title": "Photography", "description": "Always ask for permission before taking photographs, especially inside temples and during religious ceremonies."}
+      ]
+    },
+    {
+      "category": "Dining Etiquette",
+      "items": [
+        {"title": "Eating with Hands", "description": "In many local eateries, it is customary to eat with your hands. Use your right hand for eating, as the left hand is considered unclean."},
+        {"title": "Offering Food", "description": "If you are offered food or drink, it is polite to accept, even if it's a small portion. Declining can be seen as rude."},
+        {"title": "Sharing Food", "description": "Avoid sharing food from the same plate or drinking from someone else's glass. If you need to share, use separate utensils."}
+      ]
+    },
+    {
+      "category": "Social Interactions",
+      "items": [
+        {"title": "Respect for Elders", "description": "Show respect to elders by addressing them properly and allowing them to go first in lines or sit in better seats."},
+        {"title": "Gifting", "description": "When giving or receiving gifts, use both hands. Avoid gifting items made of leather to Hindus or alcohol to Muslims."},
+        {"title": "Conversation Topics", "description": "Be mindful of sensitive topics such as politics, religion, and caste. It is best to steer clear of controversial subjects."}
+      ]
+    },
+    {
+      "category": "Tips for Foreign Visitors",
+      "items": [
+        {"title": "Language", "description": "Hindi is the primary language, but English is widely understood. Learning a few basic Hindi phrases can be very helpful and appreciated."},
+        {"title": "Bargaining", "description": "Bargaining is common in local markets. Start by offering about half the asking price and negotiate from there."},
+        {"title": "Tipping", "description": "Tipping is customary in restaurants and for service providers like hotel staff and tour guides. A tip of 10-15% is generally acceptable."}
+      ]
+    }
+  ]
+}

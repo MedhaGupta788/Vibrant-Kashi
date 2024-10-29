@@ -1,0 +1,15 @@
+.header1,.header2 {
+ display: none;
+}
+@media (min-width: 1001px) {
+  .header1 {
+    display: block;
+  }
+}
+
+/* Show component 2 when screen width is less than or equal to 1100px */
+@media (max-width: 1000px) {
+  .header2 {
+    display: block;
+  }
+}

@@ -1,0 +1,24 @@
+{
+    "payment":[
+        {
+            "heading":"Currency",
+            "images":"https://media.istockphoto.com/id/1094736906/photo/one-hundred-rupee-indian-currency.jpg?s=612x612&w=0&k=20&c=48nLyJi1tiH16ruLls915UKb5w8cUjf5bJNKy8Bt_rc=",
+            "desc":"The official currency is the Indian Rupee (INR).Banknotes are ₹10, ₹20, ₹50, ₹100, ₹200, ₹500, ₹2000. Coins are ₹1, ₹2, ₹5, ₹10, ₹20."
+            
+        },
+
+         {
+            "heading":"Payment Option",
+            "images":"https://media.istockphoto.com/id/1371481913/photo/this-has-become-the-standard-way-of-paying.jpg?s=612x612&w=0&k=20&c=zfFM2BoGHFAR7Cw4co1LBSRH1BVv94JIhvbnf5_trO4=",
+            "desc":"Major Credit/Debit Cards including Visa, MasterCard, and American Express are widely accepted in hotels, restaurants, and large retail stores. Digital Payments like Mobile Wallets, UPI (Unified Payments Interface)"
+            
+        },
+         {
+            "heading":"ATM Locations",
+            "images":"https://media.istockphoto.com/id/1281693485/photo/person-entering-pin-code-using-atm-bank-machine-to-withdraw-money-close-up.jpg?s=612x612&w=0&k=20&c=wnB7jVQ1D5cgPIV2nu8E61O1rBBCWJCaxSf5vlSzqpY=",
+            "desc":"ATMs are widely available across Varanasi, including at airports, railway stations, and major tourist areas. Look for ATMs operated by major banks such as SBI, HDFC Bank, ICICI Bank, Axis Bank, and Punjab National Bank."
+            
+        }
+
+
+    ]}

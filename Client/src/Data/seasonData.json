@@ -1,0 +1,37 @@
+{
+  "seasons": [
+    {
+      "title": "Summer (March to June)",
+      "temperature": "25°C (77°F) to 45°C (113°F)",
+      "weather": "Hot and dry with clear skies and intense heat. May and June are the hottest months.",
+      "expectations": "Summers in Varanasi can be quite challenging due to the high temperatures and humidity. However, early mornings and late evenings are relatively cooler and more comfortable for exploring.",
+      "tips": [
+        "Clothing: Wear light, breathable cotton clothes. Sunglasses, hats, and sunscreen are essential.",
+        "Activities: Visit indoor attractions like museums and temples. Take early morning or late evening boat rides on the Ganges.",
+        "Hydration: Stay hydrated and avoid outdoor activities during the peak afternoon heat."
+      ]
+    },
+    {
+      "title": "Monsoon (July to September)",
+      "temperature": "24°C (75°F) to 35°C (95°F)",
+      "weather": "High humidity with heavy rainfall, especially in August.",
+      "expectations": "The monsoon season brings much-needed relief from the summer heat. The rains rejuvenate the city, making the ghats and surroundings lush and green.",
+      "tips": [
+        "Clothing: Light, quick-drying clothes, raincoats, and umbrellas are recommended. Waterproof footwear is useful.",
+        "Activities: Explore the old city’s narrow lanes, visit temples, and enjoy indoor activities. Experience the unique atmosphere of the Ganga Aarti during the monsoon.",
+        "Precautions: Be cautious as some areas may experience flooding and streets can become slippery."
+      ]
+    },
+    {
+      "title": "Winter (October to February)",
+      "temperature": "5°C (41°F) to 25°C (77°F)",
+      "weather": "Cool and pleasant with clear skies. January is the coldest month.",
+      "expectations": "Winter is the most comfortable season to visit Varanasi. The weather is ideal for sightseeing and outdoor activities.",
+      "tips": [
+        "Clothing: Wear light woolens or sweaters, especially in the early mornings and evenings. Layering is a good strategy.",
+        "Activities: Perfect time for exploring the ghats, temples, and other attractions. Enjoy boat rides on the Ganges, attend cultural festivals, and savor local cuisine.",
+        "Events: Many cultural and religious festivals, such as Dev Deepawali and Maha Shivaratri, are celebrated during this season."
+      ]
+    }
+  ]
+}

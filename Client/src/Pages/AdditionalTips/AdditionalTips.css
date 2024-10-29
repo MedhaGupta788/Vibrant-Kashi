@@ -1,0 +1,37 @@
+* {
+  padding: 40px;
+  margin: 40px;
+}
+
+.AdditionalTips {
+  position: relative;
+  overflow: hidden;
+}
+.AdditionalTipsImage {
+  height: 80vh;
+  width: 100vw;
+}
+.AdditionalTipsImage img {
+  height: 100%;
+  width: 100%;
+}
+.AdditionalTipsTitle {
+  position: absolute;
+  top: 65%;
+  left: 70px;
+  /* background-color: rgba(0, 0, 0, 0.5);   */
+  color: white;
+  padding: 10px;
+}
+.AdditionalTipsHeading {
+  font-weight: 900;
+  font-size: 5.5rem;
+}
+.additionalTipsHeading {
+  font-family: cursive;
+  font-size: 2.5em;
+  font-weight: 600;
+
+  margin-left: 40px;
+  margin-top: 40px;
+}

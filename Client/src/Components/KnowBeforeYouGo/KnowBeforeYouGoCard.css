@@ -1,0 +1,75 @@
+.knowBeforeHeading{
+    margin: 45px;
+    font-family: cursive;
+    font-size: 2.5em;
+    margin-bottom: 30px;
+    font-weight: 600; 
+}
+
+.know-before-you-go-section {
+  display: flex; /* Arrange cards horizontally */
+  overflow-x: auto; /* Enable horizontal scrolling */
+  gap: 20px; /* Spacing between cards */
+  padding: 20px;
+  margin-left: 55px;
+  margin-right: 30px;
+  
+}
+
+.know-before-you-go-card {
+  width: 450px; /* Fixed width for each card */
+  height: 450px; /* Fixed height for each card */
+  background-color: #fff;
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  flex: 0 0 auto; /* Allow cards to shrink if needed */
+  transition: transform 0.3s ease-in-out; /* Smooth hover effect */
+}
+
+.know-before-you-go-card a{
+  text-decoration: none;
+}
+
+.know-before-you-go-card:hover {
+  transform: scale(1.05); /* Scale up on hover */
+}
+
+h3 {
+  font-size: 2rem;
+  color: #333;
+  margin-bottom: 10px;
+  font-weight: 600;
+  text-align: center;
+  margin-top: 15px;
+}
+
+.know-before-you-go-card img{
+    height: 350px;
+    width: 100%;
+
+}
+
+ul {
+  list-style-type: none; /* Remove default list styles */
+  padding: 0;
+}
+
+li {
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+@media (max-width: 768px) {
+  .know-before-you-go-section {
+    flex-wrap: wrap; /* Allow cards to wrap on smaller screens */
+  }
+
+  .know-before-you-go-card {
+    width: calc(50% - 10px); /* Two cards per row with spacing */
+    max-width: calc(100% - 20px); /* Full width minus padding */
+    margin-bottom: 20px;
+  }
+}
+

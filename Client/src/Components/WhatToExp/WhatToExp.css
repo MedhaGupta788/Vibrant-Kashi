@@ -1,0 +1,78 @@
+.things-to-do {
+  padding-top: 40px;
+  overflow: hidden;
+  
+}
+
+.what-to-exp-heading {
+  margin-left: 45px;
+  font-family: cursive;
+  font-size: 2.5em;
+  margin-bottom: 25px;
+  font-weight: 600;
+}
+.seeAll{
+ display: flex;
+ justify-content: end;
+ margin-right: 45px;
+ font-weight: 550;
+ font-size: 1.2rem;
+ color:#551A8B;
+}
+.seeAll a{
+  text-decoration: none;
+}
+.seeAll:hover{
+  color: rgb(196, 5, 239);
+}
+.carouselContainer12 {
+  margin-left: 55px;
+  margin-right: 40px;
+  position: relative;
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+
+.cardsContainer12 {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  transition: transform 0.5s ease-in-out;
+}
+
+.card12 {
+ 
+  background: #fff;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  overflow: hidden;
+  margin: 0 10px;
+  max-width: 340px;
+  min-height: 400px;
+  margin-bottom: 20px;
+}
+
+.card12:hover {
+  transform: translateY(-10px);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+}
+
+.cardImage12 {
+  width: 100%;
+  height: 300px;
+  object-fit: cover;
+}
+
+.cardTitle12 {
+  font-size: 2.2rem;
+  color: #444;
+  padding:15;
+  font-weight: 600;
+  text-align: center;
+  padding-top: 18px;
+  text-shadow: 0.5px 0px 0.5px #090909;
+  
+}
