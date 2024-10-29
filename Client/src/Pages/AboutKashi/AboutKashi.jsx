@@ -42,7 +42,7 @@ function AboutKashi({headerThirteen}) {
           </h1>
           <div>
             <img
-              src="https://bodhgaya.tourismindia.co.in/images/places-to-visit/header/metta-buddharam-temple-bodh-gaya-tourism-entry-fee-timings-holidays-reviews-header.jpg"
+              src="https://images.yourstory.com/cs/wordpress/2017/10/14611126_10157634002500440_5657548469037813831_n.jpg?mode=crop&crop=faces&ar=16%3A9&format=auto&w=1920&q=75"
               className="Subimage1OfAboutKashi"
             />
           </div>
@@ -368,7 +368,7 @@ function AboutKashi({headerThirteen}) {
               Lucknow, with its headquarters at Allahabad, has territorial
               jurisdiction also over Varanasi. Under this diocese, the St Thomas
               Church in Godowlia, in the heart of the Hindu dominated area of
-              the city, is an ancient Protestant church. 
+              the city, is an ancient Protestant church.
             </div>
           </div>
         </div>
