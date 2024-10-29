@@ -36,72 +36,72 @@ Welcome to **Vibrant Kashi** – an immersive travel guide dedicated to explorin
 
 ### Homepage
 
-![Homepage](./screenshots/home.png)  
+![Homepage](./Client/screenshots/Home.png)  
 _Overview of Varanasi and key highlights_
 
 ### About Kashi
 
-![About Kashi](./screenshots/about%20kashi.png)  
+![About Kashi](./Client/screenshots/about%20kashi.png)  
 _Insight into the historical and cultural background of Kashi_
 
 ### Login Page
 
-![Login Page](./screenshots/Login%20page.png)  
+![Login Page](./Client/screenshots/Login%20page.png)  
 _User login interface for accessing personalized features_
 
 ### Reset Password
 
-![Reset Password](./screenshots/Reset.png)  
+![Reset Password](./Client/screenshots/Reset.png)  
 _Password reset functionality for account security_
 
 ### Register Page
 
-![Register Page](./screenshots/Register.png)  
+![Register Page](./Client/screenshots/Register.png)  
 _User registration to access app features_
 
 ### See Kashi in Variety of Ways
 
-![See Kashi in Variety of Ways](./screenshots/see%20kashi%20in%20variety%20of%20ways.png)  
+![See Kashi in Variety of Ways](./Client/screenshots/see%20kashi%20in%20variety%20of%20ways.png)  
 _Explore diverse perspectives of Kashi and discover unique experiences_
 
 ### Landmarks
 
-![Landmark Section](./screenshots/All%20destinations.png)  
+![Landmark Section](./Client/screenshots/All%20destinations.png)  
 _Famous landmarks and descriptions_
 
 ### Food Guide
 
-![Food Guide](./screenshots/restuarants.png)  
+![Food Guide](./Client/screenshots/restuarants.png)  
 _Explore local cuisine options_
 
 ### Hotels
 
-![Hotels](./screenshots/hotels.png)  
+![Hotels](./Client/screenshots/hotels.png)  
 _Find accommodations in Varanasi_
 
 ### Things to Do
 
-![Things to Do](./screenshots/things to do.png)  
+![Things to Do](./Client/screenshots/things to do.png)  
 _Recommended activities in Varanasi_
 
 ### Events and Festivals
 
-![Events and Festivals](./screenshots/events.png)  
+![Events and Festivals](./Client/screenshots/events.png)  
 _Explore events and festivals happening in Kashi_
 
 ### Reviews
 
-![Review Section](./screenshots/review.png)  
+![Review Section](./Client/screenshots/review.png)  
 _Read user reviews on places and experiences_
 
 ### Kashi Map
 
-![Kashi Map](./screenshots/map.png)  
+![Kashi Map](./Client/screenshots/map.png)  
 _Map of Varanasi with highlighted attractions_
 
 ### About Us
 
-![About Us](./screenshots/our%20mission.png)  
+![About Us](./Client/screenshots/our%20mission.png)  
 _Information about the creators and purpose of Vibrant Kashi_
 
 ---
