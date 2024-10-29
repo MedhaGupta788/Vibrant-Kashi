@@ -81,7 +81,7 @@ _Find accommodations in Varanasi_
 
 ### Things to Do
 
-![Things to Do](./Client/screenshots/things to do.png)  
+![Things to Do](./Client/screenshots/things%20to%20do.png)  
 _Recommended activities in Varanasi_
 
 ### Events and Festivals
